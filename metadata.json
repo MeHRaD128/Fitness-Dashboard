@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse Activity & Health Dashboard",
+  "description": "Comprehensive daily health, workout, hydration, sleep, calories, and body weight activity dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
